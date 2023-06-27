@@ -1,1 +1,18 @@
+CustomerId 客户id
+CreditScore 信誉积分
+Geography 地理位置
+Gender 性别
+Age 年龄
+Tenure 任期
+Balance 余额
+NumOfProducts 产品数量
+HasCrCard 
+IsActiveMember 是否活跃用户
+EstimatedSalary 估计工资
+Exited  是否流失
 
+
+
+生存分析，是指根据试验或调查得到的数据对生物或人的生存时间进行分析和推断，研究生存时间和结局与众多影响因素间关系及其程度大小的方法。
+我们可以利用生存分析中的Kaplan-Meier法来分析用户的生存概率，一般用来比较不同组间的生存情况，比如研究电信客户流失时，根据客户是否订阅了流媒体电视分为两类，
+分析哪类客户拥有更好的留存率；使用Cox比例风险回归模型来探讨影响生存的风险因子，比如客户的性别、月费、合伙人和电话服务等协变量对于生存影响。
